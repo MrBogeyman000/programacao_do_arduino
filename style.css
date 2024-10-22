@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(85, 113, 190);
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+small{
+    color: white;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 50px;
+    border: 50px black;
+
+}
+
+div img{
+    width: 800px;
+    height: 700px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+nav img{
+    width: 800px;
+    height: 500px;
+}
